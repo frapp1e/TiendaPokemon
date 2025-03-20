@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectoPokemon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\modelo\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\modelo\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\vista\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\vista\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\vista\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\vista\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\vista\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\vista\\bolsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\vista\\bolsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\vista\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\vista\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\vista\\bolsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\vista\\bolsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\modelo\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\modelo\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\modelo\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\modelo\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|d:\\proyectopokemon\\proyectopokemon\\controlador\\tiendapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\controlador\\tiendapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\vista\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\vista\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|D:\\ProyectoPokemon\\proyectopokemon\\vista\\cantidad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6997389D-D92A-4882-A50D-27922398C71C}|ProyectoPokemon\\ProyectoPokemon.csproj|solutionrelative:proyectopokemon\\vista\\cantidad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bolsa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\Bolsa.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Vista\\Bolsa.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\Bolsa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoPokemon\\Vista\\Bolsa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:13:22.095Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\inicio.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Vista\\inicio.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoPokemon\\Vista\\inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:54:21.53Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inicio.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\inicio.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Vista\\inicio.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\inicio.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Vista\\inicio.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAG0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:48:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tienda.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\Tienda.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Vista\\Tienda.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\Tienda.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoPokemon\\Vista\\Tienda.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:47:17.152Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\Tienda.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Vista\\Tienda.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\Tienda.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Vista\\Tienda.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAEwE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:52:22.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Objeto.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Modelo\\Objeto.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Modelo\\Objeto.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Modelo\\Objeto.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Modelo\\Objeto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:53:20.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cantidad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\cantidad.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Vista\\cantidad.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\cantidad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoPokemon\\Vista\\cantidad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:34:05.872Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bolsa.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\Bolsa.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Vista\\Bolsa.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\Bolsa.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Vista\\Bolsa.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:21:05.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataBaseManager.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Modelo\\DataBaseManager.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Modelo\\DataBaseManager.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Modelo\\DataBaseManager.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Modelo\\DataBaseManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:28:24.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Modelo\\Inventario.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Modelo\\Inventario.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Modelo\\Inventario.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Modelo\\Inventario.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:56:33.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cantidad.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\cantidad.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Vista\\cantidad.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\cantidad.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Vista\\cantidad.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:34:56.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TiendaPokemon.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Controlador\\TiendaPokemon.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Controlador\\TiendaPokemon.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Controlador\\TiendaPokemon.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Controlador\\TiendaPokemon.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:36:42.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Program.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Program.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:59:00.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cantidad.Designer.cs",
+              "DocumentMoniker": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\cantidad.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoPokemon\\Vista\\cantidad.Designer.cs",
+              "ToolTip": "D:\\ProyectoPokemon\\ProyectoPokemon\\Vista\\cantidad.Designer.cs",
+              "RelativeToolTip": "ProyectoPokemon\\Vista\\cantidad.Designer.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAgwHkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:24:33.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
